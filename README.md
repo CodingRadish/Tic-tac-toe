@@ -9,4 +9,4 @@ Implemented AI algorithm: MiniMax.
 
 My algorithm implementation was based on a suggested MiniMax approach which is nicely ilustrated by [alialaa](https://alialaa.com/blog/tic-tac-toe-js-minimax).
 
-![Sample Image](images/minimax.png)
+![Sample Image](images/minimax.jpg)
