@@ -6,4 +6,4 @@ Playing around with AI. I implemented a basic tic-tac-toe game that can be playe
 
 Implemented AI algorithm: MiniMax.
 
-![Sample Image](images/MiniMax overivew.png)
+![Sample Image](images/MiniMax_overivew.png)
