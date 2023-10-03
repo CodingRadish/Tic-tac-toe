@@ -6,6 +6,6 @@ Playing around with AI. I implemented a basic tic-tac-toe game that can be playe
 
 Implemented AI algorithm: MiniMax.
 
-My algorithm implementation was based on a suggested MiniMax approach which is nicely ilustrated [here](https://alialaa.com/blog/tic-tac-toe-js-minimax).
+My algorithm implementation was based on a suggested MiniMax approach which is nicely ilustrated by [alialaa](https://alialaa.com/blog/tic-tac-toe-js-minimax).
 
 ![Sample Image](images/MiniMax_overview.png)
