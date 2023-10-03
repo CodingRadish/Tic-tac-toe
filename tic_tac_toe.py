@@ -1,3 +1,4 @@
+# Setting up the baord and basic functionality
 def print_board(board):
     print("|-------------|")
     print("| Tic Tac Toe |")
@@ -9,7 +10,6 @@ def print_board(board):
     print("|             |")
     print("|-------------|")
     print()
-
 
 def select_space(board, move, turn):
     if move not in range(1,10):
@@ -42,7 +42,6 @@ def has_won(board, player):
     if board[0][2] == player and board[1][1] == player and board[2][0] == player:
         return True
     return False
-
 
 # The AI is defined below
 from tic_tac_toe import *
