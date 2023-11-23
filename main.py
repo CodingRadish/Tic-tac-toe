@@ -7,14 +7,13 @@ game_board = [
 	["7", "8", "9"]
 ]
 
-print()
-print("Welcome to Tic Tac Toe!")
-print()
+print("\nWelcome to Tic Tac Toe!\n")
 
 print("Game has started!")
-print("You are player X.")
-print()
+print("You are player X.\n")
+
 print_board(game_board)
+
 while not game_is_over(game_board):
     print("Player X moves.")
     space = int(input("Enter a free space: "))
